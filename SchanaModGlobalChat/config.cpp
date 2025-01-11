@@ -27,23 +27,24 @@ class CfgMods
 			{
 				files[] =
 				{
-					"SchanaModGlobalChat/Game"
-				};
-			};
-			class missionScriptModule
-			{
-				files[] =
-				{
-					"SchanaModGlobalChat/Mission"
+					"SchanaModGlobalChat/3_Game"
 				};
 			};
 			class worldScriptModule
 			{
 				files[] =
 				{
-					"SchanaModGlobalChat/World"
+					"SchanaModGlobalChat/4_World"
+				};
+			};			
+			class missionScriptModule
+			{
+				files[] =
+				{
+					"SchanaModGlobalChat/5_Mission"
 				};
 			};
+
 		};
 	};
 };
